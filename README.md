@@ -83,3 +83,5 @@ Two years at **Corizo** (edtech) taught me how to run product in a fast-moving o
 Especially interested in teams building **agentic AI products**, **campus/social platforms**, or **edtech**.
 
 **Connect:** [LinkedIn](https://linkedin.com/in/manudevmalik)
+
+<!-- profile readme refresh -->
